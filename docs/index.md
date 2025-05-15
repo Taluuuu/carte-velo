@@ -1,8 +1,8 @@
-# Projet IFT3150: Nom du projet
+# Projet IFT3150: VéloMap
 
-> **Thèmes**: Science de données, Génie logiciel  
-> **Superviseur**: Nom du supervisuer  
-> **Collaborateurs:** Nom de(s) collaborateur(s) et partenaire(s)
+> **Thèmes**: Application mobile, Génie logiciel  
+> **Superviseur**: Louis-Édouard Lafontant  
+> **Collaborateurs:** Charles-Antoine Lord
 
 ## Informations importantes
 
@@ -14,17 +14,25 @@
 
 ## Équipe
 
-- Alice Dupont: Responsable de...
-- Bob Tremblay: Responsable de...
+- Charles-Antoine Lord: Responsable de la conception et programmation
 
 ## Description du projet
 
 ### Contexte
 
+Lorsque l'on fait du vélo, il est important de savoir quelles rues prioriser et lesquelles éviter dans nos itinéraires. Il s'agit non seulement d'une question de rapidité, mais aussi de sécurité.
+
 ### Problématique ou motivations
+
+Les applications de cartes ont plusieurs problèmes pour ce qui est du vélo : 
+
+- Elles priorisent souvent des artères passantes et dangeureuses sous prétexte qu'il y existe une bande cyclable, alors que des routes secondaires qui n'en ont pas sont souvent plus sécuritaires car moins passantes.
+- Elles ne prennent pas en compte les pistes cyclables qui deviennent impraticables pendant l'hiver.
+- Elles sont souvent pas à jour avec les nouvelles infrastructures.
 
 ### Proposition et objectifs
 
+Créer une application mobile permettant à l'utilisateur d'avoir une vue sur les rues à proximité en affichant clairement quelles rues sont sécuritaires et lesquelles éviter avec un code couleur. L'utilisateur pourra aussi évaluer la sécurité des rues qu'il emprunte pour que son avis soit pris en compte dans la carte des autres utilisateurs.
 
 ## Échéancier
 
