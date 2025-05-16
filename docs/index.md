@@ -34,6 +34,10 @@ Les applications de cartes ont plusieurs problèmes pour ce qui est du vélo :
 
 Créer une application mobile permettant à l'utilisateur d'avoir une vue sur les rues à proximité en affichant clairement quelles rues sont sécuritaires et lesquelles éviter avec un code couleur. L'utilisateur pourra aussi évaluer la sécurité des rues qu'il emprunte pour que son avis soit pris en compte dans la carte des autres utilisateurs.
 
+Ainsi, avec le côté communautaire de l'application, les utilisateurs pourront avoir une idée plus à jour de l'état des routes et de la qualité de l'infrastructure cyclable.
+
+Il serait aussi utile de donner l'option aux utilisateurs de pouvoir marquer certains éléments importants aux déplacements à vélo, comme les stationnements pour vélo et les points de service.
+
 ## Échéancier
 
 !!! info
