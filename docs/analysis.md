@@ -22,7 +22,6 @@ Il est difficile pour un cycliste débutant ou qui ne connaît pas un quartier d
 
 ## Recherche de solutions
 
-- Présenter les solutions existantes et justifier le choix retenu.
 - Google Maps: Cette application n'est pas très pratique pour le vélo, puisqu'elle ne présente que l'information de si une rue possède ou non une piste cyclable. De plus, l'information est très souvent pas à jour ou fausse.
 - OsmAnd: Cette application donne des meilleurs itinéraires que Google Maps pour le vélo mais n'offre pas plus d'information que Google Maps sur les types de pistes cyclables.
 - Geovelo: Cette application est plus centrée sur la France et ne prend pas en compte l'opinion des autres utilisateurs.
