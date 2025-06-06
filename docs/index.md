@@ -20,7 +20,7 @@
 
 ### Contexte
 
-Au Québec, le secteur du transport est le plus grand émetteur de CO2, avec une part s’élevant à 39%1. L’une des solutions pour faire baisser cette statistique est de varier les modes de transport utilisés pour prioriser les solutions peu ou pas polluantes. En milieu urbain, le vélo est une excellente option dû à sa petite taille et à l’absence d’un moteur à essence. En effet, plusieurs grandes villes dans le monde se sont peu à peu métamorphosées pour redistribuer l’espace routier afin d’encourager la transportation active, et Montréal ne fait pas exception. Cependant, la métropole étant encore en pleine transformation, bon nombre de ses quartiers sont encore trop peu desservis pour permettre à tous de se déplacer de manière sécuritaire sans connaître au préalable quelles rues utiliser et lesquelles éviter.
+Au Québec, le secteur du transport est le plus grand émetteur de CO2, avec une part s’élevant à 39%. L’une des solutions pour faire baisser cette statistique est de varier les modes de transport utilisés pour prioriser les solutions peu ou pas polluantes. En milieu urbain, le vélo est une excellente option dû à sa petite taille et à l’absence d’un moteur à essence. En effet, plusieurs grandes villes dans le monde se sont peu à peu métamorphosées pour redistribuer l’espace routier afin d’encourager la transportation active, et Montréal ne fait pas exception. Cependant, la métropole étant encore en pleine transformation, bon nombre de ses quartiers sont encore trop peu desservis pour permettre à tous de se déplacer de manière sécuritaire sans connaître au préalable quelles rues utiliser et lesquelles éviter.
 
 ### Problématique ou motivations
 
@@ -52,11 +52,11 @@ L’objectif est de rendre le vélo plus sécuritaire et accessible à des nouve
 |--------------------------------|---------------|-------------------------------------|-------------|
 | Ouverture de projet            | 1 mai         | Proposition de projet               | ✅ Terminé  |
 | Analyse des exigences          | 16 mai        | Document d'analyse                  | ✅ Terminé  |
-| Prototype 1                    | 23 mai        | Maquette + Flux d'activités         | 🔄 En cours |
-| Prototype 2                    | 30 mai        | Prototype finale + Flux             | ⏳ À venir  |
-| Architecture                   | 30 mai        | Diagramme UML ou modèle C4          | ⏳ À venir  |
-| Modèle de donneés              | 6 juin        | Diagramme UML ou entité-association | ⏳ À venir  |
-| Revue de conception            | 6 juin        | Feedback encadrant + ajustements    | ⏳ À venir  |
+| Prototype 1                    | 23 mai        | Maquette + Flux d'activités         | ✅ En cours |
+| Prototype 2                    | 8 juin        | Prototype finale + Flux             | 🔄 À venir  |
+| Architecture                   | 13 juin       | Diagramme UML ou modèle C4          | ⏳ À venir  |
+| Modèle de donneés              | 13 juin       | Diagramme UML ou entité-association | 🔄 À venir  |
+| Revue de conception            | 13 juin       | Feedback encadrant + ajustements    | ⏳ À venir  |
 | Implémentation v1              | 20 juin       | Application v1                      | ⏳ À venir  |
 | Implémentation v2 + tests      | 11 juillet    | Application v2 + Tests              | ⏳ À venir  |
 | Implémentation v3              | 1er août      | Version finale                      | ⏳ À venir  |
