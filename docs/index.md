@@ -52,12 +52,12 @@ L’objectif est de rendre le vélo plus sécuritaire et accessible à des nouve
 |--------------------------------|---------------|-------------------------------------|-------------|
 | Ouverture de projet            | 1 mai         | Proposition de projet               | ✅ Terminé  |
 | Analyse des exigences          | 16 mai        | Document d'analyse                  | ✅ Terminé  |
-| Prototype 1                    | 23 mai        | Maquette + Flux d'activités         | ✅ En cours |
-| Prototype 2                    | 8 juin        | Prototype finale + Flux             | 🔄 En cours |
-| Architecture                   | 13 juin       | Diagramme UML ou modèle C4          | ⏳ À venir  |
-| Modèle de donneés              | 13 juin       | Diagramme UML ou entité-association | 🔄 En cours |
-| Revue de conception            | 13 juin       | Feedback encadrant + ajustements    | ⏳ À venir  |
-| Implémentation v1              | 20 juin       | Application v1                      | ⏳ À venir  |
+| Prototype 1                    | 23 mai        | Maquette + Flux d'activités         | ✅ Terminé  |
+| Prototype 2                    | 8 juin        | Prototype finale + Flux             | ✅ Terminé  |
+| Architecture                   | 13 juin       | Diagramme UML ou modèle C4          | ✅ Terminé  |
+| Modèle de donneés              | 13 juin       | Diagramme UML ou entité-association | ✅ Terminé  |
+| Revue de conception            | 13 juin       | Feedback encadrant + ajustements    | ✅ Terminé  |
+| Implémentation v1              | 1 juillet     | Application v1                      | 🔄 En cours |
 | Implémentation v2 + tests      | 11 juillet    | Application v2 + Tests              | ⏳ À venir  |
 | Implémentation v3              | 1er août      | Version finale                      | ⏳ À venir  |
 | Tests                          | 11-31 juillet | Plan + Résultats intermédiaires     | ⏳ À venir  |
